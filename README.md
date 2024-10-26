@@ -1,3 +1,5 @@
+![me](./me.gif)
+
 ### Hello, I'm [Maria Luísa](https://malu.dev)
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/marialuisacp)](https://github.com/marialuisacp)
