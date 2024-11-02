@@ -1,4 +1,5 @@
-![me](./me.gif)
+![me](./bg-github-dark.gif#gh-dark-mode-only)
+![me](./bg-github-light.gif#gh-light-mode-only)
 
 ### Hello, I'm [Maria Luísa](https://malu.dev)
 
