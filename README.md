@@ -7,6 +7,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/maria-lu%C3%ADsa-costa-pinto-5ab894aa)](https://www.linkedin.com/in/maria-lu%C3%ADsa-costa-pinto-5ab894aa)
 <img src="https://komarev.com/ghpvc/?username=marialuisacp&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views for marialuisacp" />
 
+📚 **Blog**
+- [Check my posts](https://blog.malu.dev)
+
 👩🏾‍💻 **About Me:**
 - I am a passionate developer.
 - Currently, I work as a **Senior Software Consultant Developer** at ThoughtWorks Brazil.
